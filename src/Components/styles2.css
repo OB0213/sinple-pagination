@@ -1,0 +1,16 @@
+.mydiv{
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+}
+
+.listpart{
+    padding: 10px;
+    border: 1.2px solid black;
+    cursor: pointer;
+}
+
+.active{
+    background-color: brown;
+    color: white;
+}
